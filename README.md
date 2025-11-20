@@ -7,7 +7,7 @@
   <img align="left" alt="Chenxi's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
 <a href="https://xeraphael.github.io/">
-  <img align="left" alt="Chenxi's Homepage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/chrome.svg" />
+  <img align="left" alt="Chenxi's Homepage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlechrome.svg" />
 </a>
 
 <br />
@@ -21,5 +21,5 @@ My research interests lie in embodied intelligence 🤖, computer vision 👁️
 ### More about me...
 
 - 👯 I'm looking for like-minded research collaborators to work on exciting projects together! 🤝
-- 📫 How to reach me: lichenxi(at)pjlab.org.cn | [GitHub](https://github.com/Xeraphael) | [Google Scholar](https://scholar.google.com/citations?user=muPHX2QAAAAJ&hl=zh-CN) | [Homepage](https://xeraphael.github.io/)
+- 📫 How to reach me: [lichenxi@pjlab.org.cn](mailto:lichenxi@pjlab.org.cn) | [GitHub](https://github.com/Xeraphael) | [Google Scholar](https://scholar.google.com/citations?user=muPHX2QAAAAJ&hl=zh-CN) | [Homepage](https://xeraphael.github.io/)
 
