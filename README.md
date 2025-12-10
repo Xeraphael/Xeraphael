@@ -14,9 +14,9 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=Xeraphael.Xeraphael)
 
-Hi! I am an incoming Ph.D. student 🎓 in the College of Computer Science and Technology at Zhejiang University, supervised by Dongzhan Zhou. I am also a joint research intern 🔬 at the Shanghai Artificial Intelligence Laboratory.
+Hi! I am an incoming Ph.D. student 🎓 in the College of Computer Science and Technology at Zhejiang University, supervised by Dongzhan Zhou. I am also a joint research intern at the Shanghai Artificial Intelligence Laboratory.
 
-My research interests lie in embodied intelligence 🤖, computer vision 👁️, and multi-agent systems 🌐.
+My research interests lie in embodied intelligence, computer vision, and multi-agent systems.
 
 ### More about me...
 
